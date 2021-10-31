@@ -14,5 +14,6 @@ https://www.youtube.com/watch?v=lSMNg866OqA
 and the slides are in https://github.com/stan-dev/stancon_talks/blob/master/2018/Contributed-Talks/14_crespo/Slides.pdf
 DOI: https://doi.org/10.5281/zenodo.1285278
 
-There is also a manuscript(in english) with the results.
+There is also a manuscript(in english) with the results:
+https://github.com/crespofabian8012/StanCon2018/blob/master/Manuscript_MSc.pdf
 
